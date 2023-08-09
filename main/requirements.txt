@@ -1,0 +1,9 @@
+streamlit
+nltk
+scikit-learn
+PyPDF2
+pdfminer.six
+python-docx
+textract
+fitz
+pandas

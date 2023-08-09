@@ -1,0 +1,8 @@
+streamlit
+nltk
+pandas
+langchain
+pyPDF2
+textract
+python-docx
+openai
